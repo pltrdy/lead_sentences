@@ -12,7 +12,7 @@ pip install -e .
 
 
 Run `lead_sentences`: 
-``
+```
 $ lead_sentences -h
 
 usage: lead_sentences [-h] -out_path OUT_PATH [-n N]
